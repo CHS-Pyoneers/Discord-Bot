@@ -17,4 +17,4 @@ class MyClient(discord.Client):
             await message.reply('Hello!', mention_author=True)
 
 client = MyClient()
-client.run("ODMxOTIxMDMyNTAzMDk5NTAz.YHcQ1g.YaX8TBi9FjhCdip_FF5HkxXwMyU")
+client.run("token name here")
